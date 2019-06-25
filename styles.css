@@ -9,6 +9,9 @@ h3 {
   color: blue;
   text-align: center;
 }
+ol {
+  text-align: left;
+}
 .box {
   text-align: center;
   padding: 10px;
