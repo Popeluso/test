@@ -15,18 +15,18 @@ ol {
 .box {
   text-align: center;
   padding: 10px;
-  width: 25%;
+  width: 27%;
   height: 280px;
   margin: auto;
   border: 3px solid red;
   border-radius: 5px;
-  box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
+  box-shadow: 10px 10px 8px #888888;
   display:block;
 }
 .box2 {
   text-align: center;
   padding: 10px;
-  width: 25%;
+  width: 27%;
   height: 280px;
   margin: auto;
   float: left;
