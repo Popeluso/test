@@ -15,7 +15,7 @@ ol {
 .box {
   text-align: center;
   padding: 10px;
-  width: 30%;
+  width: 25%;
   height: 280px;
   margin: auto;
   border: 3px solid red;
@@ -26,11 +26,11 @@ ol {
 .box2 {
   text-align: center;
   padding: 10px;
-  width: 30%;
+  width: 25%;
   height: 280px;
   margin: auto;
   float: left;
-  border: 3px solid red;
+  border: 3px solid royalblue;
   border-radius: 5px;
   box-shadow: 10px 10px 8px #888888;
   display:block;
