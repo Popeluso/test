@@ -35,6 +35,18 @@ ol {
   box-shadow: 10px 10px 8px #888888;
   display:block;
 }
+.box3 {
+  text-align: center;
+  padding: 10px;
+  width: 27%;
+  height: 280px;
+  margin: auto;
+  float: right;
+  border: 3px solid green;
+  border-radius: 5px;
+  box-shadow: 10px 10px 8px #888888;
+  display:block;
+}
 img {
   float: right;
   width: 120px;
