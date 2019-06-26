@@ -1,6 +1,6 @@
 function myFunction() {
-  var x = document.getElementById("frm1");
-  var text = "Hola, mi muy señor ";
-  text += x.element[0] + ", de la casa " + x.element[1] + ".<br>";
+  var x = document.getElementById("fname").value;
+  var y = document.getElementById("lname").value;
+  var text = "Hola, mi muy señor " + x + ", de la casa " + y;
   document.getElementById("demo2").innerHTML = text;
 }
